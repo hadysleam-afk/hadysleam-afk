@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hady Sleam
 
-<!--
-**hadysleam-afk/hadysleam-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend developer** | Node.js & PHP/Laravel | REST APIs | SQL
 
-Here are some ideas to get you started:
+Physics & Computer Science student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### [SolarMind AI](https://github.com/hadysleam-afk/SolarMind)
+
+A full-stack solar panel inspection and PV physics platform. Node/Express/Prisma REST API, React + TypeScript web client (English and Arabic), and a FastAPI/PyTorch service. Image classification runs in demo/mock mode until model weights are added.
+
+## Tools I work with
+
+- Backend: Node.js, Express, TypeScript, Prisma, PHP/Laravel, REST APIs, SQL
+- Frontend: React, Vite, Tailwind CSS
+- AI and physics: Python, FastAPI, PyTorch
+- DevOps: Docker, Docker Compose
+- Testing: Jest
