@@ -21,3 +21,4 @@ A full-stack solar panel inspection and PV physics platform. Node/Express/Prisma
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/hady-sleam/)
+- [WhatsApp](https://wa.me/201008236359?text=Hi)
