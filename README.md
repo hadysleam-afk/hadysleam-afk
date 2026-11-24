@@ -17,3 +17,7 @@ A full-stack solar panel inspection and PV physics platform. Node/Express/Prisma
 - AI and physics: Python, FastAPI, PyTorch
 - DevOps: Docker, Docker Compose
 - Testing: Jest
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/hady-sleam/)
